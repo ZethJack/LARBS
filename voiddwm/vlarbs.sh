@@ -15,7 +15,7 @@ esac done
 
 # DEFAULTS:
 [ -z "$dotfilesrepo" ] && dotfilesrepo="https://github.com/ZethJack/voidrice.git" && repobranch="voiddwm"
-[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/voiddwm/vprogs.csv"
+[ -z "$progsfile" ] && progsfile="https://raw.githubusercontent.com/ZethJack/LARBS/master/voiddwm/vprogs.csv"
 [ -z "$repobranch" ] && repobranch="master"
 
 ### FUNCTIONS ###
